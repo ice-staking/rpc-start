@@ -1,5 +1,4 @@
-
-
+#!/bin/bash
 exec /home/sol/.local/share/solana/install/active_release/bin/solana-validator \
     --identity /home/sol/id.json \
     --only-known-rpc \
