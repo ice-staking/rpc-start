@@ -1,5 +1,5 @@
 #!/bin/bash
-exec /home/sol/.local/share/solana/install/active_release/bin/solana-validator \
+exec /home/sol/.local/share/solana/install/active_release/bin/agave-validator \
     --identity /home/sol/id.json \
     --only-known-rpc \
     --full-rpc-api \
